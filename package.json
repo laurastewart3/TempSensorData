@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.11.6",
+    "mongolab-data-api": "^1.1.6",
+    "mongoose": "^4.12.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
